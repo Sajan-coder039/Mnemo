@@ -3,3 +3,4 @@
 __pycache__/
 *.pyc
 .memoryagent/
+.DS_Store
