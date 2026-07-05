@@ -1,0 +1,13 @@
+.git
+.gitignore
+.venv
+__pycache__
+**/__pycache__
+*.pyc
+.env
+.DS_Store
+.memoryagent
+web/gallery
+demo.py
+demo_consolidation.py
+eval_retrieval.py
